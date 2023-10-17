@@ -1,4 +1,4 @@
-This is Fresh project.
+This is Fresh project. Tada.
 
 ## Getting Started
 
